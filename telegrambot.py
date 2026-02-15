@@ -38,7 +38,7 @@ def get_city(message):
 
     bot.send_message(
         message.chat.id,
-        f":white_sun_small_cloud: Weather in {city}:\n"
+        f"⛅white_sun_small_cloud: Weather in {city}:\n"
         f"Temperature: {temp}°C\n"
         f"Conditions: {description}"
     )
