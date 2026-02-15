@@ -1,4 +1,4 @@
-import telebot
+import telebot #library pyTelegramBotAPI
 import requests
 from datetime import date
 
